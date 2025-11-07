@@ -1,0 +1,55 @@
+[2025-11-04T16:28:03.602Z] [32minfo[39m: 🚀 Server running in development mode on port 5000
+[2025-11-04T17:12:08.826Z] [32minfo[39m: 🚀 Server running in development mode on port 5000
+[2025-11-04T17:18:30.363Z] [32minfo[39m: 🚀 Server running in development mode on port 5000
+[2025-11-04T17:18:49.763Z] [32minfo[39m: 🚀 Server running in development mode on port 5000
+[2025-11-04T17:19:55.607Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-04T17:19:55.612Z] [32minfo[39m: 🚀 Server running on port 5000
+[2025-11-04T17:30:31.389Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-04T17:30:31.397Z] [32minfo[39m: 🚀 Server running on port 5000
+[2025-11-04T17:36:07.278Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-04T17:36:07.286Z] [32minfo[39m: 🚀 Server running on port 5000
+[2025-11-04T17:36:21.786Z] [31merror[39m: Error creating expense: 
+Invalid `prisma.expense.create()` invocation:
+
+
+Foreign key constraint violated on the fields: (`userId`)
+[2025-11-04T17:36:21.788Z] [31merror[39m: POST /api/expenses - 
+Invalid `prisma.expense.create()` invocation:
+
+
+Foreign key constraint violated on the fields: (`userId`)
+[2025-11-04T17:39:12.248Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-04T17:39:12.255Z] [32minfo[39m: 🚀 Server running on port 5000
+[2025-11-05T06:59:53.966Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-05T06:59:53.997Z] [32minfo[39m: 🚀 Server running on port 5000
+[2025-11-05T07:12:52.428Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-05T07:12:52.439Z] [32minfo[39m: 🚀 Server running on port 5000
+[2025-11-05T07:13:02.239Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-05T07:13:02.245Z] [32minfo[39m: 🚀 Server running on port 5000
+[2025-11-05T07:13:47.323Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-05T07:13:47.333Z] [32minfo[39m: 🚀 Server running on port 5000
+[2025-11-05T07:14:53.378Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-05T07:14:53.389Z] [32minfo[39m: 🚀 Server running on port 5000
+[2025-11-05T07:15:04.329Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-05T07:15:04.344Z] [32minfo[39m: 🚀 Server running on port 5000
+[2025-11-05T07:23:12.881Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-05T07:23:12.890Z] [32minfo[39m: 🚀 Server running on port 5000
+[2025-11-05T07:23:58.169Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-05T07:23:58.178Z] [32minfo[39m: 🚀 Server running on port 5000
+[2025-11-05T07:24:08.568Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-05T07:24:08.581Z] [32minfo[39m: 🚀 Server running on port 5000
+[2025-11-05T07:26:32.600Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-05T07:26:32.614Z] [32minfo[39m: 🚀 Server running on port 5000
+[2025-11-05T07:45:13.831Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-05T07:45:13.841Z] [32minfo[39m: 🚀 Server running on port 5000
+[2025-11-05T08:57:28.103Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-05T11:37:39.404Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-05T11:37:39.422Z] [32minfo[39m: 🚀 Server running on port 5000
+[2025-11-05T14:49:20.868Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-05T14:49:20.878Z] [32minfo[39m: 🚀 Server running on port 5000
+[2025-11-05T14:52:20.854Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-05T14:52:20.876Z] [32minfo[39m: 🚀 Server running on port 5000
+[2025-11-05T15:03:23.786Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-05T15:03:23.795Z] [32minfo[39m: 🚀 Server running on port 5000
+[2025-11-05T15:03:33.412Z] [32minfo[39m: ✅ Database connected successfully
+[2025-11-05T15:03:33.420Z] [32minfo[39m: 🚀 Server running on port 5000
